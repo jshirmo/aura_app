@@ -1,0 +1,6 @@
+{
+  "name": "Aura - Visual Environment Companion",
+  "description": "An accessibility-first AI environment companion for blind and low-vision users to find objects with directional audio guidance, remember personal items, and detect safety hazards in familiar spaces.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
