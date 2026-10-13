@@ -7,7 +7,7 @@
 
 ## 🌐 Live Web & Mobile Prototype
 
-- **Public / Shareable App Link**: [https://ais-pre-h4xkeqme267w7p76xjglyw-822788775375.us-east1.run.app](https://ais-pre-h4xkeqme267w7p76xjglyw-822788775375.us-east1.run.app)  
+- **Public / Shareable App Link**: [https://aura-app-live.onrender.com](https://aura-app-live.onrender.com)  
   *(Open this link directly in Safari, Chrome, or any mobile browser. Anyone with the link can test without signing in.)*
 
 ---
